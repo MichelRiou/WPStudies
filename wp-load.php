@@ -10,7 +10,7 @@
  * wp-config.php file.
  *
  * Will also search for wp-config.php in WordPress' parent
- * direct  ory to allow the WordPress directory to remain
+ * direct  ory to allo   w the WordPress directory to remain
  * untouched.
  *
  * @package WordPress
